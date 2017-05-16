@@ -1,0 +1,16 @@
+
+.signup	{
+	text-align:right;
+	box-shadow:	center;
+}
+body.index{
+background: #403B4A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to top, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to top, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar-brand {
+	font-size: 200%;
+}
+
+
